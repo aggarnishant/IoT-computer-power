@@ -34,8 +34,8 @@ Adafruit_AHTX0 aht;
 // Adafruit IO Account Configuration
 
 
-#define AIO_USERNAME "aggarnishant"
-#define AIO_KEY "aio_SdMX90BF4cXAMOGyfU6ipZEAGPbK"
+#define AIO_USERNAME <Adafruit_username>
+#define AIO_KEY <Adafruit_Key>
 
 /************ Global State (you don't need to change this!) ******************/
 
